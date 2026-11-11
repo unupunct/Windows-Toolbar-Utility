@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/WinTab.Core/WinTab.Core.csproj" />
+  <Project Path="src/WinTab.App/WinTab.App.csproj" />
+  <Project Path="tests/WinTab.Tests/WinTab.Tests.csproj" />
+</Solution>
